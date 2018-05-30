@@ -1,13 +1,13 @@
 {
-	"name": "plex-name",
+	"name": "Видеоклуб",
 	"version": "1.0.0.",
 	"description": "",
 	"author": {
-		"name": "plexname"
+		"name": "Видеоклуб"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/plexname/plex-name.git"
+		"url": "https://github.com/xaid2/plex-name.git"
 	},
 	"dependencies": {
 		"code-proxy": "^1.2.21",
